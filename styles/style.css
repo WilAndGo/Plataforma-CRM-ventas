@@ -1,0 +1,78 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+.encabezado {
+    padding: 20px;
+    /* margin: 10px; */
+    /* border: 1px solid #ccc; */
+    background-color: #ffdd00;
+    font-size: 20px;
+}
+
+.titulo {
+    color: black;
+    font-size: 2em;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.login {
+    height: 150px;
+    width: 200px;
+    padding: 20px;
+    font-size: 15px;
+}
+
+.panel-formulario {
+    height: 275px;
+    width: 250px;
+    padding: 10px;
+    margin-left: 10px;
+    font-size: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+} 
+
+.body-formulario {
+    font-size: 15px;
+    width: 169.5px;
+    /* background-color: #ed0505; */
+}
+
+.footer-panel {
+    height: 5px;
+    min-width: 100px;
+    padding: 20px;
+    margin: 10px -10px 10px -10px;
+    background-color: #d3d2d2;
+    font-size: 9px;
+    border-top: 1px solid #adadad;
+    border-radius: 0px 0px 4.2px 4.2px;
+
+}
+
+/* .button-color {
+    min-width: 250px;
+    background-color: #4CAF50;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+} */
+
+
+
+footer {
+    background-color: #333;
+    color: #fff;
+    font-size: 10px;
+    text-align: center;
+    padding: 5px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
